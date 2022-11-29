@@ -190,7 +190,6 @@
   .movie-list-item:hover .movie-list-item-desc,
   .movie-list-item:hover .movie-list-item-button {
     opacity: 1;
-    border-radius: 10px;
   }
   
   .movie-list-item-img {
@@ -204,7 +203,7 @@
   .movie-list-item-title {
     background-color: #333;
     padding: 0 10px;
-    font-size: 32px;
+    font-size: 20px;
     font-weight: bold;
     position: absolute;
     top: 10%;
